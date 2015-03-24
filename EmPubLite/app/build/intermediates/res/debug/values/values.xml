@@ -2,7 +2,7 @@
 <resources>
     <!-- From: file:/Users/a.puppala/Documents/workspace/handson/android/EmPubLite/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">EmPubLite</string>
+    <string name="app_name">EmPub Lite</string>
     <string name="hello_world">Hello world!</string>
     <!-- From: file:/Users/a.puppala/Documents/workspace/handson/android/EmPubLite/app/src/main/res/values/styles.xml -->
     <eat-comment/>
